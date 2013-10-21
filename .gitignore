@@ -1,0 +1,6 @@
+# compiled output
+/tmp
+
+# dependencies
+/node_modules
+/vendor/*

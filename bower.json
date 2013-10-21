@@ -1,0 +1,7 @@
+{
+  "name": "penny.js",
+  "devDependencies": {
+    "almond": "0.2.6",
+    "tl-crypto-js": "3.1.2"
+  }
+}

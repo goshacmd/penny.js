@@ -1,0 +1,24 @@
+{
+  "name": "penny.js",
+  "namespace": "penny",
+  "global": "Penny",
+  "version": "0.0.1",
+  "description": "Penny.js is a library for interacting with the Bitcoin protocol.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "./node_modules/.bin/bower install"
+  },
+  "author": "Gosha Arinich <me@goshakkk.name>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-es6-module-transpiler": "~0.5.1",
+    "grunt-text-replace": "~0.3.8",
+    "decompress": "~0.1.4",
+    "bower": "~1.2.7"
+  }
+}
